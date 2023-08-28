@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Poppins:wght@300;400&family=REM:ital,wght@0,400;0,500;1,400&family=Shippori+Antique&family=Ubuntu&display=swap');
+  
+.card-header{
+  font-family: 'REM', sans-serif o !important;
+  font-size: 14pt !important;
+}
+
+.card-title{
+  font-family: 'REM', sans-serif o !important;
+}
+
+.card-text{
+  font-family: 'REM', sans-serif o !important;
+}
